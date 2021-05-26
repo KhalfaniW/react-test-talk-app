@@ -15,3 +15,7 @@ This project shows some sample tests for the presentation in React Chicago to wr
   
 4. edit the tests and rerun them 
     
+# Notes:
+
+The test `./src/snippets/second-example-failing-test.test.js` should fail. 
+Make it look like `./src/snippets/first-example.test.js` to make it pass.
