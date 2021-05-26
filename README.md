@@ -9,7 +9,9 @@ This project shows some sample tests for the presentation in React Chicago to wr
 2. run all tests using `npm test`
 
 3. run one test using `npm test -- [file-path]`
-  for example you can run `npm test -- ./src/snippets/MyApp-V1/MyApp-clean.test.js` from this directory 
 
+
+  for example you can run `npm test -- ./src/snippets/MyApp-V1/MyApp-clean.test.js` from this directory 
+  
 4. edit the tests and rerun them 
     
